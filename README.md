@@ -97,7 +97,10 @@ superintelligence_project/
    ```bash
    python main.py
    ```
-Set up Kubernetes (optional for scalability): If you plan to use Kubernetes, make sure to install and configure kubectl and create a cluster. Follow Kubernetes documentation for setup instructions.
+   
+3. **Set up Kubernetes (optional for scalability)**:
+   If you plan to use Kubernetes, make sure to install and configure kubectl and create a cluster. Follow Kubernetes documentation for setup instructions.
+   
 
 ## 👥 Contribution
 Contributions are welcome! Follow these steps to contribute:
